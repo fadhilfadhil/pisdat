@@ -1,5 +1,5 @@
 pandas==1.1.5
 numpy==1.19.5
 bokeh==2.3.3
-voila==4.6 
+voila==0.2.16
 pygments==2.11.2
